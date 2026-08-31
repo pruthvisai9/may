@@ -1,4 +1,4 @@
----->ATM Program without Functions---->
+#---->ATM Program without Functions---->
 balance=1000
 user_name=input("Enter username:")
 pin=int(input("Enter PIN Number:"))
